@@ -1,0 +1,10 @@
+Enunciado del Programa: Desarrolla un programa en Python que permita gestionar una biblioteca de libros. El programa debe 
+ser capaz de:
+
+1. Añadir nuevos libros a la biblioteca, especificando título, autor, año de publicación y género.
+2. Eliminar libros de la biblioteca por título.
+3. Buscar libros por título, autor o género.
+4. Listar todos los libros de la biblioteca ordenados alfabéticamente por título.
+5. Mostrar los libros publicados en un año específico.
+6. Guardar y cargar la información de los libros en un archivo de texto para que la información se mantenga entre 
+ejecuciones del programa.
